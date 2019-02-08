@@ -2,8 +2,7 @@
 
 # fritzing flow app example
 
-an app to create a flow-diagram from different fritzing fzz sketches. the main idea is to use to power of designed fritzing sketches 
-and combine them in the way your device need it them.
+a proof of concept app to create a flow-diagram from different fritzing fzz sketches. the main idea is to use to power of designed fritzing sketches and combine them in the way your device need it them.
 
 
 # Based on:
